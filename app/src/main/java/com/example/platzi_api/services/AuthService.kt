@@ -10,7 +10,7 @@ import retrofit2.http.POST
 
 interface AuthService {
 
-    //authentication for login and registration
+    //authentication for login and registration f
 
     @POST("auth/login")
     suspend fun login(@Body request: RequestLogin): Response<ResponseLogin>
