@@ -28,7 +28,7 @@ class LoginFragment : Fragment() {
     lateinit var prefManager: PrefManager
 
 
-//login fragment
+//login fragment s
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
